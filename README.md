@@ -1,4 +1,10 @@
-# 验证 promise async/await setTimeout setImmediate 队列执行顺序
+# 验证队列执行顺序
+
+```txt
+promise async/await setTimeout setImmediate
+```
+
+</br>
 
 ## 队列循环分解
 
